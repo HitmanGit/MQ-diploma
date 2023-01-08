@@ -1,13 +1,13 @@
 @font-face {
 	font-family: "Open Sans";
-	src: url(/fonts/OpenSans-Regular.woff);
+	src: url(../fonts/OpenSans-Regular.woff);
 	font-weight: 400;
 	font-style: normal;
 }
 
 @font-face {
 	font-family: "Open Sans";
-	src: url(/fonts/OpenSans-Bold.woff);
+	src: url(../fonts/OpenSans-Bold.woff);
 	font-weight: 700;
 	font-style: bold;
 }
@@ -34,7 +34,7 @@ a {
   padding-bottom: 145px;
   margin: 0 auto;
   min-width: 1200px;
-  background-image: url(/images/banner-bg.jpg);
+  background-image: url(../images/banner-bg.jpg);
   background-position: top center;
   background-size: cover;
   background-color: #000000;
@@ -147,7 +147,7 @@ width: calc(25% - 4px);
 
 .trends-card:nth-child(1) {
 
-background: url('/images/trend1.jpg') center center no-repeat;
+background: url('../images/trend1.jpg') center center no-repeat;
 background-size: cover;
 display: flex;
 align-items: flex-end;
@@ -157,7 +157,7 @@ padding: 137px 20px 20px;
 
 .trends-card:nth-child(2) {
 
-  background: url('/images/trend2.jpg') center center no-repeat;
+  background: url('../images/trend2.jpg') center center no-repeat;
   background-size: cover;
   display: flex;
   align-items: flex-end;
@@ -169,7 +169,7 @@ padding: 137px 20px 20px;
 
   .trends-card:nth-child(3) {
 
-    background: url('/images/trend3.jpg') center center no-repeat;
+    background: url('../images/trend3.jpg') center center no-repeat;
     background-size: cover;
     display: flex;
     align-items: flex-end;
@@ -181,7 +181,7 @@ padding: 137px 20px 20px;
   
     .trends-card:nth-child(4) {
 
-      background: url('/images/trend4.jpg') center center no-repeat;
+      background: url('../images/trend4.jpg') center center no-repeat;
       background-size: cover;
       display: flex;
       align-items: flex-end;
