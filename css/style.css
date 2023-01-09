@@ -51,7 +51,7 @@ a {
 	left: 0;
 }
 
-.main-container,.footer-container {
+.main-container,.footer-container,.container {
     width: 1170px;
     margin-left: auto;
     margin-right: auto;
@@ -65,8 +65,7 @@ a {
   display: flex;
   justify-content: space-between;
   align-items: center;
-  max-width: 1170px;
-  margin: 0 auto;
+ 
 }
 
 .header-logo {
